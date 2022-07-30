@@ -1,0 +1,24 @@
+{
+  "name": "my-mini-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-jest": "^28.1.1",
+    "jest": "^28.1.1",
+    "vue": "^3.2.37",
+    "vue-jest": "^3.0.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.12"
+  }
+}
